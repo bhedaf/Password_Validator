@@ -7,6 +7,8 @@
  *
  * @author Freya
  */
+
+//hello this is password validator project!!
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
